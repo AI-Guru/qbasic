@@ -1,0 +1,3 @@
+SCREEN 12
+PRINT "TEST"
+
